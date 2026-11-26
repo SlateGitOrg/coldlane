@@ -1,0 +1,22 @@
+shipment_id,milestone,ts
+SHP-0577,origin_dock,2025-06-22 12:21:00
+SHP-0577,linehaul,2025-06-22 13:49:00
+SHP-0577,hub_dwell,2025-06-22 16:58:00
+SHP-0577,tarmac,2025-06-22 22:14:00
+SHP-0577,flight,2025-06-23 01:42:00
+SHP-0577,last_mile,2025-06-23 04:44:00
+SHP-0577,destination_dock,2025-06-23 06:26:00
+SHP-0577,delivered,2025-06-23 08:06:00
+SHP-0636,origin_dock,2025-07-13 15:02:00
+SHP-0636,linehaul,2025-07-13 16:26:00
+SHP-0636,hub_dwell,2025-07-13 20:22:00
+SHP-0636,tarmac,2025-07-14 01:02:00
+SHP-0636,flight,2025-07-14 03:04:00
+SHP-0636,last_mile,2025-07-14 05:21:00
+SHP-0636,destination_dock,2025-07-14 06:41:00
+SHP-0636,delivered,2025-07-14 08:26:00
+SHP-1192,origin_dock,2025-12-20 14:47:00
+SHP-1192,linehaul,2025-12-20 16:08:00
+SHP-1192,last_mile,2025-12-21 02:12:00
+SHP-1192,destination_dock,2025-12-21 03:16:00
+SHP-1192,delivered,2025-12-21 04:45:00

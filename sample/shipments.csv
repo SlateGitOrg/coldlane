@@ -1,0 +1,4 @@
+shipment_id,lot_id,product,lane_id,mode,origin,destination,ship_ts,logger_id
+SHP-0577,LOT-216,A,AIR-MIA,air,HUB-A,MIA,2025-06-22 12:21:00,LG-4-4110
+SHP-0636,LOT-218,C,AIR-SEA,air,HUB-A,SEA,2025-07-13 15:02:00,LG-6-0089
+SHP-1192,LOT-067,A,GND-CHI,ground,HUB-A,CHI,2025-12-20 14:47:00,LG-1-6876
